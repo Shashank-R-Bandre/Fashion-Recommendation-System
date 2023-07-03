@@ -40,6 +40,6 @@
 * Pre-trained **ResNET50** model is used for **feature extraction.**
 * **Nearest Neighbor** of Scikit learn is used for giving recommendation.
 
-# VIDEO :-
+## VIDEO :-
 
 https://github.com/Shashank-R-Bandre/Fashion-Recommendation-System/assets/137071327/5f044cb3-397a-4cf2-864b-87ab6e6821da
